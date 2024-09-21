@@ -9,7 +9,9 @@ Base NoteBook : https://www.kaggle.com/code/ahmedelfazouan/belka-1dcnn-starter-w
 
 
 Hello!
+
 I would like to thank Kaggle for organizing such an interesting competition. We also appreciate @ahmedelfazouan for sharing notebooks and dataset that influenced my solution.
+
 Below you can find a outline of how to reproduce my 4th_place solution for the NeurIPS 2024 - Predict New Medicines with BELKA competition.
 
 
