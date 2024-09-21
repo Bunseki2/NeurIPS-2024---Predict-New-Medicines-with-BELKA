@@ -1,6 +1,9 @@
 # NeurIPS-2024---Predict-New-Medicines-with-BELKA 
 https://www.kaggle.com/competitions/leash-BELKA
 
+Leaderboard : https://www.kaggle.com/competitions/leash-BELKA/leaderboard
+Dataset : https://www.kaggle.com/datasets/ahmedelfazouan/belka-enc-dataset
+Base NoteBook : https://www.kaggle.com/code/ahmedelfazouan/belka-1dcnn-starter-with-all-data 
 
 Hello!
 
