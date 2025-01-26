@@ -40,3 +40,10 @@ run solution_4thplace.ipynb
     b) train all model 
 
 
+# Key Points
+The model is a very basic experiment and far from the optimal. You can improve and optimize it. 
+- used whole data with TPU
+- did PCA and projected data to 3d space 
+- appended these to the dataset and trained with 1DCNN + original parameters.
+
+The keys that set my solution apart from others in the competition might come from simple feature engineering, including reduced dimension chemical space information along with detailed chemical structure information, simple 1D-CNN, and all data.
