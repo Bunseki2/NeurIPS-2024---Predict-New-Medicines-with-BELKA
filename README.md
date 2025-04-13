@@ -1,4 +1,6 @@
 # NeurIPS-2024---Predict-New-Medicines-with-BELKA 
+Kaggle competition
+    Predict small molecule-protein interactions using the Big Encoded Library for Chemical Assessment (BELKA)
 https://www.kaggle.com/competitions/leash-BELKA
 
 Leaderboard : https://www.kaggle.com/competitions/leash-BELKA/leaderboard
@@ -47,3 +49,11 @@ The model is a very basic experiment and far from the optimal. You can improve a
 - appended these to the dataset and trained with 1DCNN + original parameters.
 
 The keys that set my solution apart from others in the competition might come from simple feature engineering, including reduced dimension chemical space information along with detailed chemical structure information, simple 1D-CNN, and all data.
+
+# Background
+Small molecule drugs work by interacting with proteins in cells to change their function. Traditionally, finding these drugs is a slow process of making and testing them one by one. While there's a vast chemical space with potential treatments, the current method is too time-consuming to explore it fully. To address this, Leash Biosciences created a large dataset (BELKA) of 133M small molecule interactions with protein targets. This dataset aims to promote the use of machine learning to predict drug-target interactions, potentially revolutionizing drug discovery by enabling computational screening of the chemical space instead of relying solely on lab experiments.
+
+# DNA-encoded chemical libraries (DELs)
+DELs are collections of small molecules, each tagged with a unique DNA barcode. This barcoding system offers a scalable alternative to traditional high-throughput screening, which requires handling individual small molecules in separate tubes. DELs allow for many molecules to be mixed in a single tube and screened simultaneously against a protein target. Molecules that bind to the target are identified through DNA sequencing of their barcodes. DELs are created by chemically combining different building blocks, analogous to building a Mickey Mouse head with different attachments.   
+
+!(/assets/images/electrocat.png)
