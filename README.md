@@ -56,4 +56,4 @@ Small molecule drugs work by interacting with proteins in cells to change their 
 # DNA-encoded chemical libraries (DELs)
 DELs are collections of small molecules, each tagged with a unique DNA barcode. This barcoding system offers a scalable alternative to traditional high-throughput screening, which requires handling individual small molecules in separate tubes. DELs allow for many molecules to be mixed in a single tube and screened simultaneously against a protein target. Molecules that bind to the target are identified through DNA sequencing of their barcodes. DELs are created by chemically combining different building blocks, analogous to building a Mickey Mouse head with different attachments.   
 
-!(/assets/images/DEL_Kaggle.png)
+![DEL explanation](DEL_Kaggle.png)
